@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ryan/work/ali/github/flutter-study/flutter_my_exam/build/app/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ryan/work/ali/github/flutter-study/flutter_my_exam/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ryan/work/ali/github/flutter-study/flutter_my_exam/build/app/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ryan/work/ali/github/flutter-study/flutter_my_exam/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ryan/work/ali/github/flutter-study/flutter_my_exam/build/app/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ryan/work/ali/github/flutter-study/flutter_my_exam/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ryan/work/ali/github/flutter-study/flutter_my_exam/build/app/intermediates/res/merged/release/drawable_launch_background.xml.flat",
+        "source": "/Users/ryan/work/ali/github/flutter-study/flutter_my_exam/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/ryan/work/ali/github/flutter-study/flutter_my_exam/build/app/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ryan/work/ali/github/flutter-study/flutter_my_exam/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ryan/work/ali/github/flutter-study/flutter_my_exam/build/app/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ryan/work/ali/github/flutter-study/flutter_my_exam/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
